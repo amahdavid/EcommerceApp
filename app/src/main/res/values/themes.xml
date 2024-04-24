@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <style name="Theme.EcommerceApp" parent="android:Theme.Material.Light.NoActionBar" />
+    <style name="Base.Theme.EcommerceApp" parent="Theme.AppCompat.Light.NoActionBar" />
+
+    <style name="Theme.EcommerceApp" parent="Base.Theme.EcommerceApp">
+        <item name="android:windowTranslucentNavigation">true</item>
+    </style>
 </resources>

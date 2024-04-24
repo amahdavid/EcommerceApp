@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">EcommerceApp</string>
+    <string name="intro_title"><font color="#00000">Welcome to\n </font><font color="#FF64B5F6"> A world of shoes</font></string>
+    <string name="intro_text"><font color="#00000">Browse our latest styles and catalogues\n Get personalized recompilations\nEnjoy fast, reliable shipping</font></string>
+    <string name="get_started_button">Get Started</string>
+    <string name="intro_logo_description">Intro Logo</string>
+    <string name="intro_signIn"><font color="#00000">Already have an account? </font><font color="#FF64B5F6">Log In!</font></string>
+
 </resources>
